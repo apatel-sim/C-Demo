@@ -4,7 +4,7 @@
     {
         public string GetGreeting(string name)
         {
-            return string.Format("Hello {0}", name);
+            return string.Format("Helloworkd {0}", name);
         }
 
         public string GetGoodbye(string name)
